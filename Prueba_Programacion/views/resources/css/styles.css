@@ -1,0 +1,22 @@
+/*Header*/
+.bg-header{
+	background-color: #2C2C2C;
+}
+
+.titulo{
+	line-height: 50px;
+}
+
+/*Body*/
+body{
+	background-color: #212529;
+}
+
+
+.celda{
+  cursor: pointer;
+}
+
+.text-size{
+	font-size: 11px;
+}
